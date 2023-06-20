@@ -33,7 +33,6 @@ with open(election_data_csv) as csvfile:
 
     # Define separator and line space strings
     separator = '-' * 30
-    line_space = '\n'
 
     # Create the output string using f-strings and proper formatting
     output = f"""
