@@ -2,6 +2,8 @@
 
 ## This is my Module 3 'python-challenge'
 
+Folders in this repo include 'PyBank' for the Financial Analysis challenge and 'PyPoll' for the Election Results challenge. 
+
 
 References: 
 
