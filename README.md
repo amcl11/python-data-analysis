@@ -1,9 +1,6 @@
-# python-challenge
+# Module 3: Python
 
-## This is my Module 3 'python-challenge'
-
-Folders in this repo include 'PyBank' for the Financial Analysis challenge and 'PyPoll' for the Election Results challenge. 
-
+Folders in this repo include 'PyBank' for the Financial Analysis and 'PyPoll' for the Election Results analysis. 
 
 References: 
 
@@ -16,4 +13,3 @@ This article helped me with learning the '\n' character and newline spacing:
 This documentation helped with the f.write function:
 [f.write function](https://docs.python.org/3/tutorial/inputoutput.html) 
 
-*I noticed my PyBank code I was using multiple lines of the same print() functions and wanted to reduce that*
